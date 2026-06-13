@@ -4,6 +4,7 @@ A foundational Python application capable of performing core arithmetic operatio
 
 ### 👨‍💻 Developer Details
 * **Name:** Ishant Khare
+* **Domain:** Python Programming
 * **Company:** CodSoft
 
 ### 🎯 Objective
